@@ -1,6 +1,6 @@
 Sum of N Natural Numbers
 A simple Python program to calculate the sum of natural numbers.
-Concepts Used:
+Concepts Used:<br>
 User Input
 Variables
 for Loop
