@@ -1,17 +1,17 @@
-Sum of N Natural Numbers
-A simple Python program to calculate the sum of natural numbers.
+Sum of N Natural Numbers<br>
+A simple Python program to calculate the sum of natural numbers.<br>
 Concepts Used:<br>
-User Input
-Variables
-for Loop
-Arithmetic Operations
+User Input<br>
+Variables<br>
+for Loop<br>
+Arithmetic Operations<br>
 
-Skills Learned
-Looping through numbers
-Building basic logic
-Working with integers in Python
+Skills Learned:<br>
+Looping through numbers<br>
+Building basic logic<br>
+Working with integers in Python<br>
 
-Formula
-Sum = n × (n + 1) / 2
-Beginner Python Project
+Formula:<br>
+Sum = n × (n + 1) / 2<br>
+Beginner Python Project<br>
 Good practice project for improving problem-solving and programming basics.
